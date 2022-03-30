@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"If your'e not first you're last" - Ricky Bobby
 Use the left arrow to go back!
